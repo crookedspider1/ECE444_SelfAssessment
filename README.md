@@ -1,4 +1,4 @@
 # William LaHaye
 
-![Alt text](Activity1ScreenShot.png)
+![Alt text](Activity1Screenshot.png)
 
